@@ -1,0 +1,11 @@
+cruft*.txt
+*.log
+*.swp
+build/
+target/
+bin/
+out/
+.project
+.classpath
+.settings/
+
