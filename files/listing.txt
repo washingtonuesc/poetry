@@ -1,9 +1,8 @@
 total 1002064
-drwxr-xr-x    2 tlberglund  staff         68 Nov  8 12:24 Applications
-drwxr-xr-x@   8 tlberglund  staff        272 Oct 31 15:06 Box Documents
+drwxr-xr-x    2 tlberglund  staff         68 Nov  8 12:24 Job Applications
 drwx------+   8 tlberglund  staff        272 Nov 12 17:54 Desktop
 drwx------+  52 tlberglund  staff       1768 Sep 14 14:34 Documents
-drwx------+  45 tlberglund  staff       1530 Nov 13 08:38 Downloads
+drwx------+  45 tlberglund  staff       1530 Nov 13 08:38 Torrents
 drwx------@  34 tlberglund  staff       1156 Nov  8 20:22 Dropbox
 drwx------@  64 tlberglund  staff       2176 Oct 27 22:01 Library
 drwx------+  28 tlberglund  staff        952 Nov  1 13:07 Movies
